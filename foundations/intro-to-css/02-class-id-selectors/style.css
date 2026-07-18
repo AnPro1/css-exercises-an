@@ -1,4 +1,8 @@
 .alert-text {
-    background-color: #ffc2cc;
+    background-color: rgb(255, 194, 204);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#number2 {
+    color: #0000ff;
+    font-size: 24px;
 }

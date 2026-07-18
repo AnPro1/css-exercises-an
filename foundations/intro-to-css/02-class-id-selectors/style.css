@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.alert-text {
+    background-color: #ffc2cc;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}

@@ -6,3 +6,11 @@
     color: #0000ff;
     font-size: 24px;
 }
+.alert-text:nth-of-type(2){
+    font-size: 24px;
+}
+#number4{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
